@@ -1,0 +1,5 @@
+# cdn
+
+This is the Blockly Code CDN server!
+
+**DO NOT UPLOAD ANYTHING HERE UNLESS TOLD TO BY A MEMBER OF STAFF**
